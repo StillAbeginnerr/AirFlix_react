@@ -52,6 +52,10 @@
 - CSS (or styled-components for styling)
 - Aviation API supporting ICAO code queries
 
+  ![image](https://github.com/StillAbeginnerr/AirFlix_react/assets/88205668/dc9363af-a316-4b1a-8714-087594e5a09e)
+![image](https://github.com/StillAbeginnerr/AirFlix_react/assets/88205668/8f0bfbb1-fd0b-431e-b268-481f83b2d4a4)
+
+
 **How to Use:**
 
 1. Clone the project repository.
